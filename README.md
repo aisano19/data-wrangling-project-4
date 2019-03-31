@@ -3,7 +3,7 @@
 * Section number: 3 – Data wrangling
 * Source data: [refine.xlsx](https://drive.google.com/file/d/0B9vKjeWdQHa5OE5UQ1k4TWJlelU/view)
 * Number of tasks: 6
-    <ol start = "0>
+    <ol start = "0">
         <li> Load the data in RStudio </li>
         <li> Clean up brand names </li>
         <li> Separate product code and number </li>
